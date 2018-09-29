@@ -12,7 +12,7 @@ Expressions to diffrentiate contain
 * log
 * sqrt
 * quotients
-* trig functions (cos, sin, tan)
+* trig functions (cos, sin, tan, sec)
 ```
 
 
